@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1211-queries-quality-and-percentage](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1211-queries-quality-and-percentage) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
