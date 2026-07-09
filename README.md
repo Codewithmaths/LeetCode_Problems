@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0066-plus-one) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
