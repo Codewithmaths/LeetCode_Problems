@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Codewithmaths/LeetCode_Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Sorting
 |  |
